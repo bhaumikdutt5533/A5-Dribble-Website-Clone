@@ -1,10 +1,3 @@
-/* =========================================================
-   Dribbble clone - responsive version
-   Same look as the original on desktop; fixed % heights were
-   replaced with flexible sizing + breakpoints.
-   Breakpoints: 1024px, 900px, 768px, 600px, 480px
-   ========================================================= */
-
 * {
     margin: 0;
     padding: 0;
